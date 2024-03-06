@@ -1,0 +1,7 @@
+#hoi-button {
+  list-style-image:url('chrome://hoi/skin/icon24.png');
+}
+
+toolbar[iconsize="small"] #hoi-button {
+  list-style-image:url('chrome://hoi/skin/icon.png');
+}

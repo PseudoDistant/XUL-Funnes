@@ -1,0 +1,6 @@
+content   hoi                content/
+skin      hoi  classic/1.0   skin/
+locale    hoi  en-US         locale/en-US/
+
+overlay chrome://browser/content/browser.xul  chrome://hoi/content/browserOverlay.xul
+style chrome://global/content/customizeToolbar.xul chrome://hoi/skin/browserOverlay.css
